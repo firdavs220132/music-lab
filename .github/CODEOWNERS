@@ -9,12 +9,12 @@
 /src/ @firdavs220132
 
 # Tests
-/tests/ @firdavs220132
+/tests/ @s40m
 
 # CI/CD configuration
-/.github/ @firdavs220132
+/.github/ @s40m
 
 # Build and config
-/package.json @firdavs220132
-/tsconfig.json @firdavs220132
-/playwright.config.ts @firdavs220132
+/package.json @Ibrokhim2110123
+/tsconfig.json @Ibrokhim2110123
+/playwright.config.ts @Ibrokhim2110123
