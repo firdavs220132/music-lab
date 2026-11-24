@@ -14,6 +14,9 @@
 # CI/CD configuration
 /.github/ @s40m
 
+# API documentation
+/api-docs/ @Ibrokhim2110123
+
 # Build and config
 /package.json @Ibrokhim2110123
 /tsconfig.json @Ibrokhim2110123
