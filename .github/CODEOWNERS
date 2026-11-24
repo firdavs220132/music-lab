@@ -1,0 +1,20 @@
+# Code Owners for Music Lab
+# These owners will be automatically requested for review
+# when a pull request modifies files they own.
+
+# Default owner for everything in the repo
+* @firdavs220132
+
+# Frontend source code
+/src/ @firdavs220132
+
+# Tests
+/tests/ @firdavs220132
+
+# CI/CD configuration
+/.github/ @firdavs220132
+
+# Build and config
+/package.json @firdavs220132
+/tsconfig.json @firdavs220132
+/playwright.config.ts @firdavs220132
